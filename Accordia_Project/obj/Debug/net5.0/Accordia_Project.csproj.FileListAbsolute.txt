@@ -1,0 +1,1729 @@
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\appsettings.json
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+E:\Evolve\repos\Accordia_Project\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+E:\Evolve\repos\Accordia_Project\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\appsettings.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\appsettings.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\appsettings.json
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Dapper.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+D:\EvolveAMS-main\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+D:\EvolveAMS-main\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\appsettings.json
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.StaticWebAssets.xml
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Dapper.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+E:\Working\PPP\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Pack.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\msbuild.Accordia_Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\msbuild.build.Accordia_Project.props
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Accordia_Project.props
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Accordia_Project.props
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\refint\Accordia_Project.dll
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+E:\Working\PPP\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+D:\PPP\Accordia_Project\bin\Debug\net5.0\appsettings.json
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Dapper.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+D:\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\PPP\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+D:\PPP\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+D:\PPP\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+D:\PPP\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+D:\PPP\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\appsettings.json
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Dapper.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+D:\Working-master\Working-master\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+D:\Working-master\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\appsettings.Development.json
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\appsettings.json
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.exe
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.deps.json
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.json
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.runtimeconfig.dev.json
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ref\Accordia_Project.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Accordia_Project.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Core.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Dapper.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Humanizer.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\EntityLayer.dll
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\DataAccessLayer.dll.config
+D:\Working-master\Accordia_Project\bin\Debug\net5.0\EntityLayer.pdb
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.AssemblyInfo.cs
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.csproj.CopyComplete
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.dll
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\ref\Accordia_Project.dll
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.pdb
+D:\Working-master\Accordia_Project\obj\Debug\net5.0\Accordia_Project.genruntimeconfig.cache

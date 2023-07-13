@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87210225-3077-48F8-ABAA-E46556562750}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAccessLayer</RootNamespace>
+    <AssemblyName>DataAccessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\Microsoft.Extensions.Configuration.Abstractions.6.0.0\lib\net461\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\Microsoft.Extensions.Primitives.6.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Collections.Immutable.1.3.1\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Common, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Data.Common.4.3.0\lib\net451\System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SqlClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Data.SqlClient.4.8.3\lib\net451\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\Accordia_Project\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccreditationDAL\accrSpecialChargesDAL.cs" />
+    <Compile Include="AccreditationDAL\accrCountryScopeMapDAL.cs" />
+    <Compile Include="AccreditationDAL\accrChargesCountryMapDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationBankDetailDAL.cs" />
+    <Compile Include="AccreditationDAL\accrBodyStandardDurationDAL.cs" />
+    <Compile Include="AccreditationDAL\accrChargesAmountMapDAL.cs" />
+    <Compile Include="AccreditationDAL\accrIndustrialCodeCategoryMapDAL.cs" />
+    <Compile Include="AccreditationDAL\accrIndustrialCodeTypeDAL.cs" />
+    <Compile Include="AccreditationDAL\accrOfficeContactPersonsStandardDAL.cs" />
+    <Compile Include="AccreditationDAL\amountValueTypeDAL.cs" />
+    <Compile Include="applicationQuotationDtlDAL.cs" />
+    <Compile Include="appQuotationFeesTaxDAL.cs" />
+    <Compile Include="appQuotationFeesDtlDAL.cs" />
+    <Compile Include="BuyerDAL\buyerDAL.cs" />
+    <Compile Include="BuyerDAL\buyerOfficeTypeDAL.cs" />
+    <Compile Include="BuyerDAL\buyerContactPersonDAL.cs" />
+    <Compile Include="Dashboard\dashboardDAL.cs" />
+    <Compile Include="NoticeBoardDAL\privateMessageDAL.cs" />
+    <Compile Include="NoticeBoardDAL\UserRolesDAL.cs" />
+    <Compile Include="officeCategoryRelationDAL.cs" />
+    <Compile Include="Office\standardRightsDAL.cs" />
+    <Compile Include="Office\standardRightPointDAL.cs" />
+    <Compile Include="Office\officeScopeStateMapDAL.cs" />
+    <Compile Include="Office\officeScopeCityMapDAL.cs" />
+    <Compile Include="Office\officeScopeStandardMapDAL.cs" />
+    <Compile Include="Office\officeScopeDAL.cs" />
+    <Compile Include="siteInfrastructureMasterDAL.cs" />
+    <Compile Include="clientSiteWorkingDayDAL.cs" />
+    <Compile Include="appSiteEmpBreakDownDetailDAL.cs" />
+    <Compile Include="appSiteEmpBreakDownDAL.cs" />
+    <Compile Include="siteDormitoriesDAL.cs" />
+    <Compile Include="StandardDAL\naceClassDAL.cs" />
+    <Compile Include="StandardDAL\naceGroupDAL.cs" />
+    <Compile Include="StandardDAL\naceDivisionDAL.cs" />
+    <Compile Include="StandardDAL\standardServiceFeeBankMapDAL.cs" />
+    <Compile Include="StandardDAL\naceSectionDAL.cs" />
+    <Compile Include="standardDocumentDAL.cs" />
+    <Compile Include="standardFixQuestionsDAL.cs" />
+    <Compile Include="appSiteShiftsDayMapDAL.cs" />
+    <Compile Include="appClientSecondaryProcessDAL.cs" />
+    <Compile Include="siteInfrastructureDAL.cs" />
+    <Compile Include="clientSiteSeasonDAL.cs" />
+    <Compile Include="appQuotationOtherChargesDAL.cs" />
+    <Compile Include="stationaryTypeDAL.cs" />
+    <Compile Include="monthsDAL.cs" />
+    <Compile Include="applicationEditReasonDAL.cs" />
+    <Compile Include="serviceScopeDAL.cs" />
+    <Compile Include="logsDAL.cs" />
+    <Compile Include="Tariff\officeTaxStateMapDAL.cs" />
+    <Compile Include="Tariff\tariffTypeDAL.cs" />
+    <Compile Include="unitsDAL.cs" />
+    <Compile Include="termsConditionDAL.cs" />
+    <Compile Include="termsConditionCategoryDAL.cs" />
+    <Compile Include="appClientBrandDAL.cs" />
+    <Compile Include="siteBillingInfoDAL.cs" />
+    <Compile Include="regulatoryLawDAL.cs" />
+    <Compile Include="appClientStandardDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAppAuditCAPDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAppAuditNcsDAL.cs" />
+    <Compile Include="contactPersonsUsersRoleMapDAL.cs" />
+    <Compile Include="bankAccountPurposeMapDAL.cs" />
+    <Compile Include="calendarStatusDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAppAuditTeamDAL.cs" />
+    <Compile Include="AuditExecutionDAL\assignmentAssociatedRiskDAL.cs" />
+    <Compile Include="companyContactInformationDAL.cs" />
+    <Compile Include="officeStationaryPrefixDAL.cs" />
+    <Compile Include="CompanyDAL\companySubscriptionDAL.cs" />
+    <Compile Include="SAASDAL\leadCompanyContactPersonDAL.cs" />
+    <Compile Include="SAASDAL\leadCompanyCreditCardDetailDAL.cs" />
+    <Compile Include="SAASDAL\subscriptionPlanDAL.cs" />
+    <Compile Include="SAASDAL\subscriptionTypeMasterDAL.cs" />
+    <Compile Include="StandardDAL\auditObservationDAL.cs" />
+    <Compile Include="StandardDAL\auditPreRequisitesDetailDAL.cs" />
+    <Compile Include="StandardDAL\auditRequiredDocDetailDAL.cs" />
+    <Compile Include="StandardDAL\auditRequiredDocMasterDAL.cs" />
+    <Compile Include="StandardDAL\auditPreRequisitesMasterDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditTaskRequiredDocDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditAssignmentStatusDAL.cs" />
+    <Compile Include="StandardDAL\manDaysFormulaDAL.cs" />
+    <Compile Include="StandardDAL\standardInterviewRequirementDAL.cs" />
+    <Compile Include="StandardDAL\riskLevelDAL.cs" />
+    <Compile Include="StandardDAL\standardReqCheckListDAL.cs" />
+    <Compile Include="StandardDAL\checkListTypeDAL.cs" />
+    <Compile Include="StandardDAL\questionControlChoiceDAL.cs" />
+    <Compile Include="clauseTypeDAL.cs" />
+    <Compile Include="StandardDAL\questionAnswerDAL.cs" />
+    <Compile Include="StandardDAL\standardAuditsTypesDAL.cs" />
+    <Compile Include="StandardDAL\standardServiceFeeDetailDAL.cs" />
+    <Compile Include="StandardDAL\standardServiceFeeMasterDAL.cs" />
+    <Compile Include="StandardDAL\standardFeeCriteriaDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAppAuditAssignmentDocumentMasterDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAppAuditAssignmentDocumentDtlDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientApplicationAuditDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditAssignmentDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditTaskPreRequisitsDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditTaskCheckListDAL.cs" />
+    <Compile Include="AuditExecutionDAL\assignmentAuditorInstructionDAL.cs" />
+    <Compile Include="AuditExecutionDAL\clientAuditAssignmentTaskDAL.cs" />
+    <Compile Include="clientSiteHolidayDAL.cs" />
+    <Compile Include="auditApplicationReviewPointStatusDAL.cs" />
+    <Compile Include="auditApplicationReviewPointDAL.cs" />
+    <Compile Include="appQuotationFeesDAL.cs" />
+    <Compile Include="clientDesignationDAL.cs" />
+    <Compile Include="clientBusinessTypeDAL.cs" />
+    <Compile Include="clientStatusDAL.cs" />
+    <Compile Include="appClientBuyerDAL.cs" />
+    <Compile Include="appReviewerCommentsDAL.cs" />
+    <Compile Include="appClientProductDAL.cs" />
+    <Compile Include="appClientProcessDAL.cs" />
+    <Compile Include="applicationReviewDAL.cs" />
+    <Compile Include="appSiteCalendarDAL.cs" />
+    <Compile Include="invoiceLedgerDAL.cs" />
+    <Compile Include="quotationPaymentStatusDAL.cs" />
+    <Compile Include="quotationPaymentTermDAL.cs" />
+    <Compile Include="StandardDAL\standardProcessStageDAL.cs" />
+    <Compile Include="StandardDAL\standardProcessDAL.cs" />
+    <Compile Include="StandardDAL\auditDeliverableDocumentDAL.cs" />
+    <Compile Include="StandardDAL\auditRequiredDocTypeDAL.cs" />
+    <Compile Include="interviewTypeDAL.cs" />
+    <Compile Include="StandardDAL\auditDurationDAL.cs" />
+    <Compile Include="StandardDAL\auditObservationTypeDAL.cs" />
+    <Compile Include="auditEmployeeTypeDAL.cs" />
+    <Compile Include="StandardDAL\formulaOperationDAL.cs" />
+    <Compile Include="salutationDAL.cs" />
+    <Compile Include="modeOfPaymentDAL.cs" />
+    <Compile Include="paymentTermDAL.cs" />
+    <Compile Include="categoryRelationDAL.cs" />
+    <Compile Include="bankAccountPurposeDAL.cs" />
+    <Compile Include="appCertificationStatusDAL.cs" />
+    <Compile Include="siteLanguageDAL.cs" />
+    <Compile Include="timePeriodUnitDAL.cs" />
+    <Compile Include="StandardDAL\questionGroupDAL.cs" />
+    <Compile Include="StandardDAL\questionEffectDAL.cs" />
+    <Compile Include="seasonTypeDAL.cs" />
+    <Compile Include="noOfBuildingDAL.cs" />
+    <Compile Include="employeeTypeDAL.cs" />
+    <Compile Include="UserManagement\roleRequirementDAL.cs" />
+    <Compile Include="UserManagement\userRoleReqiurementDAL.cs" />
+    <Compile Include="UserManagement\userRoleMapDAL.cs" />
+    <Compile Include="UserManagement\roleRightsDAL.cs" />
+    <Compile Include="reviewFinalDecisionDAL.cs" />
+    <Compile Include="expenseTypeDAL.cs" />
+    <Compile Include="taxTermDAL.cs" />
+    <Compile Include="serivceFeeTypeDAL.cs" />
+    <Compile Include="weekDayDAL.cs" />
+    <Compile Include="quotationStatusDAL.cs" />
+    <Compile Include="quotationVersionDAL.cs" />
+    <Compile Include="quotationDAL.cs" />
+    <Compile Include="invoiceDAL.cs" />
+    <Compile Include="ledgerMasterDAL.cs" />
+    <Compile Include="ledgerDetailDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationServiceFeeDAL.cs" />
+    <Compile Include="trTypeDAL.cs" />
+    <Compile Include="invoiceTypeDAL.cs" />
+    <Compile Include="invoiceStatusDAL.cs" />
+    <Compile Include="requiredDocumentDAL.cs" />
+    <Compile Include="Tariff\officeTaxDetailDAL.cs" />
+    <Compile Include="costTypeDAL.cs" />
+    <Compile Include="serviceTypeDAL.cs" />
+    <Compile Include="servicesDAL.cs" />
+    <Compile Include="Tariff\officeTaxMasterDAL.cs" />
+    <Compile Include="SAASDAL\packageMasterDAL.cs" />
+    <Compile Include="SAASDAL\packageStandardDAL.cs" />
+    <Compile Include="SAASDAL\leadStatusDAL.cs" />
+    <Compile Include="SAASDAL\leadCompanyDAL.cs" />
+    <Compile Include="taxCountryCategoryDAL.cs" />
+    <Compile Include="taxTypeDAL.cs" />
+    <Compile Include="taxMasterDAL.cs" />
+    <Compile Include="paymentStatusMappingDAL.cs" />
+    <Compile Include="paymentStatusTypeDAL.cs" />
+    <Compile Include="paymentStatusDAL.cs" />
+    <Compile Include="UserManagement\userRightsDAL.cs" />
+    <Compile Include="UserManagement\roleDAL.cs" />
+    <Compile Include="evolveMailNotificationDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationAddressesDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationBodyDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationBodyStandardDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationCategoryDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationChargesDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationCompanyContactsInformationDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationContactPersonCategoryDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationIndustrialCodesDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationOfficeContactPersonsDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationOfficeEmailDAL.cs" />
+    <Compile Include="AccreditationDAL\accreditationTypeOfInvoicechargesDAL.cs" />
+    <Compile Include="UserManagement\moduleDAL.cs" />
+    <Compile Include="departmentDAL.cs" />
+    <Compile Include="clientSitesDAL.cs" />
+    <Compile Include="standardTypeOfEmployeeDAL.cs" />
+    <Compile Include="quotationFeesDAL.cs" />
+    <Compile Include="applicationQuotationDAL.cs" />
+    <Compile Include="appSiteAuditDaysDetailDAL.cs" />
+    <Compile Include="appSiteEmpDetailDAL.cs" />
+    <Compile Include="appSiteHolidayDAL.cs" />
+    <Compile Include="appSiteShiftsDAL.cs" />
+    <Compile Include="applicationOfficeSitesDAL.cs" />
+    <Compile Include="appIndustryStandardDAL.cs" />
+    <Compile Include="appBusinessPartnerDAL.cs" />
+    <Compile Include="appBusinessScopeDAL.cs" />
+    <Compile Include="appQuestionAnswerDAL.cs" />
+    <Compile Include="appStandardQuestionDAL.cs" />
+    <Compile Include="clientSiteLanguageDAL.cs" />
+    <Compile Include="applicationMasterDAL.cs" />
+    <Compile Include="applicationDetailDAL.cs" />
+    <Compile Include="standardQuestionForAppDAL.cs" />
+    <Compile Include="industryStandardDAL.cs" />
+    <Compile Include="StandardDAL\questionTypeDAL.cs" />
+    <Compile Include="siteSubTypeDAL.cs" />
+    <Compile Include="siteTypeDAL.cs" />
+    <Compile Include="siteContactPersonGroupDAL.cs" />
+    <Compile Include="clientTypesDAL.cs" />
+    <Compile Include="clientMasterDAL.cs" />
+    <Compile Include="auditExecutionProcessStepDAL.cs" />
+    <Compile Include="clientContactPersonsDAL.cs" />
+    <Compile Include="UserManagement\userLoginDAL.cs" />
+    <Compile Include="StandardDAL\employeeBreakDownDtlDAL.cs" />
+    <Compile Include="StandardDAL\employeeBreakDownMasterDAL.cs" />
+    <Compile Include="nonConformatiesDAL.cs" />
+    <Compile Include="dormitoriesEmployeeDAL.cs" />
+    <Compile Include="employeeRangeDAL.cs" />
+    <Compile Include="CompanyDAL\companyStandardsDAL.cs" />
+    <Compile Include="StandardDAL\riskTableStatusDAL.cs" />
+    <Compile Include="StandardDAL\checkListSectionDAL.cs" />
+    <Compile Include="StandardDAL\checkListDAL.cs" />
+    <Compile Include="StandardDAL\questionBankDAL.cs" />
+    <Compile Include="StandardDAL\standardSetupStepsDAL.cs" />
+    <Compile Include="interviewSamplingDAL.cs" />
+    <Compile Include="auditClauseMappingDAL.cs" />
+    <Compile Include="auditDurationCalculationDAL.cs" />
+    <Compile Include="StandardDAL\standardSetupDAL.cs" />
+    <Compile Include="StandardDAL\auditClausesDAL.cs" />
+    <Compile Include="industryCategoryDAL.cs" />
+    <Compile Include="auditTypeDAL.cs" />
+    <Compile Include="adressTypeDAL.cs" />
+    <Compile Include="announcementTypeDAL.cs" />
+    <Compile Include="StandardDAL\auditCycleDAL.cs" />
+    <Compile Include="setupStepsDAL.cs" />
+    <Compile Include="StepStatusDAL.cs" />
+    <Compile Include="officeDocumentDtlDAL.cs" />
+    <Compile Include="CompanyDAL\companyTypeDAL.cs" />
+    <Compile Include="officeActiveStsDAL.cs" />
+    <Compile Include="userApprovalLogDAL.cs" />
+    <Compile Include="officeActiveLogDAL.cs" />
+    <Compile Include="bankAdditionalDetailsDAL.cs" />
+    <Compile Include="businessTypeDAL.cs" />
+    <Compile Include="auditStandardsDAL.cs" />
+    <Compile Include="officeStandardsDAL.cs" />
+    <Compile Include="cityDAL.cs" />
+    <Compile Include="bankChargesDAL.cs" />
+    <Compile Include="officeSetupStepsDAL.cs" />
+    <Compile Include="currencyDAL.cs" />
+    <Compile Include="officeBanksDetailDAL.cs" />
+    <Compile Include="contactPersonsUsersDAL.cs" />
+    <Compile Include="officeDocumentMasterDAL.cs" />
+    <Compile Include="CompanyDAL\companyDAL.cs" />
+    <Compile Include="officeContactNoDAL.cs" />
+    <Compile Include="contactTypeDAL.cs" />
+    <Compile Include="countryDAL.cs" />
+    <Compile Include="Crypto.cs" />
+    <Compile Include="designationDAL.cs" />
+    <Compile Include="emailTypeDAL.cs" />
+    <Compile Include="LoginDAL.cs" />
+    <Compile Include="officeAdressesDAL.cs" />
+    <Compile Include="officeDAL.cs" />
+    <Compile Include="officeDocTypeDAL.cs" />
+    <Compile Include="officeEmailDAL.cs" />
+    <Compile Include="officeTypeDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLDataAccess.cs" />
+    <Compile Include="SqlDBHelper.cs" />
+    <Compile Include="SqlDBHelperClient.cs" />
+    <Compile Include="stateProviceDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
+      <Project>{517c1e60-bba1-4dcc-a6b9-e1be9f8014c0}</Project>
+      <Name>EntityLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

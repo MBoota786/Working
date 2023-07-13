@@ -1,0 +1,291 @@
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Buffers.xml
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\STARIZ.PK\Source\Repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Buffers.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Buffers.xml
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Evolve\repos\Accordia_Project\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Buffers.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Memory.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Buffers.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Memory.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Buffers.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Memory.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Dapper.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Dapper.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\EvolveAMS-main\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\EvolveAMS-main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\EvolveAMS-main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\EvolveAMS-main\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\EvolveAMS-main\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\EvolveAMS-main\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Working\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Working\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Working\PPP\DataAccessLayer\bin\Debug\Dapper.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Buffers.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Memory.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+E:\Working\PPP\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\Working\PPP\DataAccessLayer\bin\Debug\Dapper.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Buffers.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Memory.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Working\PPP\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+E:\Working\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Working\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Working\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Working\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Working\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\PPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\PPP\DataAccessLayer\bin\Debug\Dapper.dll
+D:\PPP\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PPP\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\PPP\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\PPP\DataAccessLayer\bin\Debug\Dapper.xml
+D:\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\PPP\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PPP\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\PPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Dapper.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Dapper.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Working-master\Working-master\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\Working-master\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Working-master\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Working-master\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Working-master\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Working-master\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Working-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Working-master\DataAccessLayer\bin\Debug\Dapper.dll
+D:\Working-master\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Buffers.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Collections.Immutable.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Memory.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Working-master\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\Working-master\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Working-master\DataAccessLayer\bin\Debug\Dapper.xml
+D:\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Working-master\DataAccessLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.Buffers.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.Collections.Immutable.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.Memory.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Working-master\DataAccessLayer\bin\Debug\System.ValueTuple.xml
+D:\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Working-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

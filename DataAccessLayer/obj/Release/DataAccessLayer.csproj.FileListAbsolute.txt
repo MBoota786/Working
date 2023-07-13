@@ -1,0 +1,110 @@
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\EntityLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Buffers.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Collections.Immutable.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Memory.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Numerics.Vectors.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.ValueTuple.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Buffers.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Collections.Immutable.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Memory.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Numerics.Vectors.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\bin\Release\System.ValueTuple.xml
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\EntityLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Buffers.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Collections.Immutable.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Memory.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\System.ValueTuple.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Dapper.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\DataAccessLayer\bin\Release\Dapper.xml

@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{517C1E60-BBA1-4DCC-A6B9-E1BE9F8014C0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntityLayer</RootNamespace>
+    <AssemblyName>EntityLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsNoticeBoard\clsGroupMessage.cs" />
+    <Compile Include="clsNoticeBoard\clsMessage.cs" />
+    <Compile Include="clsNoticeBoard\clsMsgFiles.cs" />
+    <Compile Include="clsNoticeBoard\clsPrivateMessage.cs" />
+    <Compile Include="clsNoticeBoard\clsUserRoles.cs" />
+    <Compile Include="clsStandardRights.cs" />
+    <Compile Include="clsStandardRightPoint.cs" />
+    <Compile Include="clsBuyerContactPerson.cs" />
+    <Compile Include="clsBuyerOfficeType.cs" />
+    <Compile Include="clsBuyer.cs" />
+    <Compile Include="clsUnits.cs" />
+    <Compile Include="clsLogs.cs" />
+    <Compile Include="clsNaceClass.cs" />
+    <Compile Include="clsNaceGroup.cs" />
+    <Compile Include="clsNaceDivision.cs" />
+    <Compile Include="clsNaceSection.cs" />
+    <Compile Include="clsAppQuotationFeesTax.cs" />
+    <Compile Include="clsAppQuotationFeesDtl.cs" />
+    <Compile Include="clsDashboard.cs" />
+    <Compile Include="clsTariffType.cs" />
+    <Compile Include="clsStandardServiceFeeBankMap.cs" />
+    <Compile Include="clsOfficeTaxStateMap.cs" />
+    <Compile Include="clsTaxTerm.cs" />
+    <Compile Include="clsServiceFeeType.cs" />
+    <Compile Include="clsExpenseType.cs" />
+    <Compile Include="clsReviewFinalDecision.cs" />
+    <Compile Include="clsApplicationQuotationDtl.cs" />
+    <Compile Include="clsAppQuotationOtherCharges.cs" />
+    <Compile Include="clsOfficeScopeCityMap.cs" />
+    <Compile Include="clsOfficeScopeStateMap.cs" />
+    <Compile Include="clsOfficeScopeStandardMap.cs" />
+    <Compile Include="clsOfficeScope.cs" />
+    <Compile Include="clsOfficeCategoryRelation.cs" />
+    <Compile Include="clsServiceScope.cs" />
+    <Compile Include="clsApplicationEditReason.cs" />
+    <Compile Include="clsSiteInfrastructureMaster.cs" />
+    <Compile Include="clsClientSiteWorkingDay.cs" />
+    <Compile Include="clsMonths.cs" />
+    <Compile Include="clsAppSiteEmpBreakDownDetail.cs" />
+    <Compile Include="clsAppSiteEmpBreakDown.cs" />
+    <Compile Include="clsSiteDormitories.cs" />
+    <Compile Include="clsStandardFixQuestions.cs" />
+    <Compile Include="clsAccrSpecialCharges.cs" />
+    <Compile Include="clsUserRoleRequirement.cs" />
+    <Compile Include="clsRoleRequirement.cs" />
+    <Compile Include="clsUserRoleMap.cs" />
+    <Compile Include="clsEmployeeType.cs" />
+    <Compile Include="clsAppSiteShiftsDayMap.cs" />
+    <Compile Include="clsRoleRights.cs" />
+    <Compile Include="clsNoOfBuilding.cs" />
+    <Compile Include="clsSiteInfrastructure.cs" />
+    <Compile Include="clsClientSiteSeason.cs" />
+    <Compile Include="clsSeasonType.cs" />
+    <Compile Include="clsAppBusinessActivity.cs" />
+    <Compile Include="clsAppClientSecondaryProcess.cs" />
+    <Compile Include="clsStationaryType.cs" />
+    <Compile Include="clsTermsCondition.cs" />
+    <Compile Include="clsTermsConditionCategory.cs" />
+    <Compile Include="clsAppClientBrand.cs" />
+    <Compile Include="clsRegulatoryLaw.cs" />
+    <Compile Include="clsAccrBodyStandardDuration.cs" />
+    <Compile Include="clsAccrCountryScopeMap.cs" />
+    <Compile Include="clsAccrOfficeContactPersonsStandard.cs" />
+    <Compile Include="clsAccrIndustrialCodeCategoryMap.cs" />
+    <Compile Include="clsAccrIndustrialCodeType.cs" />
+    <Compile Include="clsAccrChargesAmountMap.cs" />
+    <Compile Include="clsAccrChargesCountryMap.cs" />
+    <Compile Include="clsSiteBillingInfo.cs" />
+    <Compile Include="clsSiteLanguage.cs" />
+    <Compile Include="clsAppCertificationStatus.cs" />
+    <Compile Include="clsAmountValueType.cs" />
+    <Compile Include="clsContactPersonsUsersRoleMap.cs" />
+    <Compile Include="clsBankAccountPurposeMap.cs" />
+    <Compile Include="clsBankAccountPurpose.cs" />
+    <Compile Include="clsCheckListDetail.cs" />
+    <Compile Include="clsCompanyContactInformation.cs" />
+    <Compile Include="clsOfficeStationaryPrefix.cs" />
+    <Compile Include="clsCategoryRelation.cs" />
+    <Compile Include="clsLeadCompanyCreditCardDetail.cs" />
+    <Compile Include="clsAccreditationBankDetail.cs" />
+    <Compile Include="clsCompanySubscription.cs" />
+    <Compile Include="clsSubscriptionTypeMaster.cs" />
+    <Compile Include="clsSubscriptionPlan.cs" />
+    <Compile Include="clsPaymentTerm.cs" />
+    <Compile Include="clsLeadAssignment.cs" />
+    <Compile Include="clsLeadCompanyContactPerson.cs" />
+    <Compile Include="clsModeOfPayment.cs" />
+    <Compile Include="clsSalutation.cs" />
+    <Compile Include="clsResult.cs" />
+    <Compile Include="clsClientAuditAssignmentStatus.cs" />
+    <Compile Include="clsClientAppAuditCAP.cs" />
+    <Compile Include="clsClientAppAuditNcs.cs" />
+    <Compile Include="clsFormulaOperation.cs" />
+    <Compile Include="clsManDaysFormula.cs" />
+    <Compile Include="clsAuditEmployeeType.cs" />
+    <Compile Include="clsAuditObservation.cs" />
+    <Compile Include="clsAuditObservationType.cs" />
+    <Compile Include="clsAuditDuration.cs" />
+    <Compile Include="clsStandardInterviewRequirement.cs" />
+    <Compile Include="clsInterviewType.cs" />
+    <Compile Include="clsRiskLevel.cs" />
+    <Compile Include="clsStandardReqCheckList.cs" />
+    <Compile Include="clsAuditRequiredDocType.cs" />
+    <Compile Include="clsAuditRequiredDocDetail.cs" />
+    <Compile Include="clsAuditRequiredDocMaster.cs" />
+    <Compile Include="clsAuditPreRequisitesDetail.cs" />
+    <Compile Include="clsAuditPreRequisitesMaster.cs" />
+    <Compile Include="clsCheckListType.cs" />
+    <Compile Include="clsQuestionControlChoice.cs" />
+    <Compile Include="clsQuestionAnswer.cs" />
+    <Compile Include="clsQuestionEffect.cs" />
+    <Compile Include="clsQuestionGroup.cs" />
+    <Compile Include="clsClauseType.cs" />
+    <Compile Include="clsAuditDeliverableDocument.cs" />
+    <Compile Include="clsTimePeriodUnit.cs" />
+    <Compile Include="clsStandardAuditsTypes.cs" />
+    <Compile Include="clsStandardServiceFeeDetail.cs" />
+    <Compile Include="clsStandardServiceFeeMaster.cs" />
+    <Compile Include="clsStandardFeeCriteria.cs" />
+    <Compile Include="clsClientAuditTaskRequiredDoc.cs" />
+    <Compile Include="clsClientAuditTaskPreRequisits.cs" />
+    <Compile Include="clsAssignmentAssociatedRisk.cs" />
+    <Compile Include="clsClientAppAuditTeam.cs" />
+    <Compile Include="clsCalendarStatus.cs" />
+    <Compile Include="clsClientAppAuditAssignmentDocumentDtl.cs" />
+    <Compile Include="clsClientAppAuditAssignmentDocumentMaster.cs" />
+    <Compile Include="clsClientApplicationAudit.cs" />
+    <Compile Include="clsClientAuditAssignment.cs" />
+    <Compile Include="clsClientAuditTaskCheckList.cs" />
+    <Compile Include="clsAssignmentAuditorInstruction.cs" />
+    <Compile Include="clsClientAuditAssignmentTask.cs" />
+    <Compile Include="clsStandardProcessStage.cs" />
+    <Compile Include="clsStandardProcess.cs" />
+    <Compile Include="clsQuotationPaymentTerm.cs" />
+    <Compile Include="clsQuotationPaymentStatus.cs" />
+    <Compile Include="clsClientSiteHoliday.cs" />
+    <Compile Include="clsWeekDay.cs" />
+    <Compile Include="clsAuditApplicationReviewPointStatus.cs" />
+    <Compile Include="clsAuditApplicationReviewPoint.cs" />
+    <Compile Include="clsAppQuotationFees.cs" />
+    <Compile Include="clsClientDesignation.cs" />
+    <Compile Include="clsClientBusinessType.cs" />
+    <Compile Include="clsClientStatus.cs" />
+    <Compile Include="clsAppClientBuyer.cs" />
+    <Compile Include="clsAppClientProduct.cs" />
+    <Compile Include="clsAppClientProcess.cs" />
+    <Compile Include="clsAppReviewerComments.cs" />
+    <Compile Include="clsApplicationReview.cs" />
+    <Compile Include="clsAppSiteCalendar.cs" />
+    <Compile Include="clsInvoiceLedger.cs" />
+    <Compile Include="clsInvoice.cs" />
+    <Compile Include="clsQuotationVersion.cs" />
+    <Compile Include="clsQuotationStatus.cs" />
+    <Compile Include="clsQuotation.cs" />
+    <Compile Include="clsTrType.cs" />
+    <Compile Include="clsInvoiceStatus.cs" />
+    <Compile Include="clsInvoiceType.cs" />
+    <Compile Include="clsLedgerDetail.cs" />
+    <Compile Include="clsLedgerMaster.cs" />
+    <Compile Include="clsRequiredDocuments.cs" />
+    <Compile Include="clsOfficeDocumentUpload.cs" />
+    <Compile Include="clsAccreditationServiceFee.cs" />
+    <Compile Include="clsCostType.cs" />
+    <Compile Include="clsTaxCountryCategory.cs" />
+    <Compile Include="clsServiceType.cs" />
+    <Compile Include="clsServices.cs" />
+    <Compile Include="clsOfficeTaxDetail.cs" />
+    <Compile Include="clsPackageStandard.cs" />
+    <Compile Include="clsPackageMaster.cs" />
+    <Compile Include="clsLeadCompany.cs" />
+    <Compile Include="clsLeadStatus.cs" />
+    <Compile Include="clsOfficeTaxMaster.cs" />
+    <Compile Include="clsTaxType.cs" />
+    <Compile Include="clsTaxMaster.cs" />
+    <Compile Include="clsPaymentStatusMapping.cs" />
+    <Compile Include="clsPaymentStatusType.cs" />
+    <Compile Include="clsPaymentStatus.cs" />
+    <Compile Include="clsRole.cs" />
+    <Compile Include="clsUserRights.cs" />
+    <Compile Include="clsEvolveMailNotification.cs" />
+    <Compile Include="clsAccreditationBodyStandard.cs" />
+    <Compile Include="clsAccreditationCategory.cs" />
+    <Compile Include="clsAccreditationCharges.cs" />
+    <Compile Include="clsAccreditationCompanyContactsInformation.cs" />
+    <Compile Include="clsAccreditationContactPersonCategory.cs" />
+    <Compile Include="clsAccreditationIndustrialCodes.cs" />
+    <Compile Include="clsAccreditationOfficeContactPersons.cs" />
+    <Compile Include="clsAccreditationOfficeEmail.cs" />
+    <Compile Include="clsAccreditationTypeOfInvoicecharges.cs" />
+    <Compile Include="clsModule.cs" />
+    <Compile Include="clsDepartment.cs" />
+    <Compile Include="clsStandardTypeOfEmployee.cs" />
+    <Compile Include="clsQuotationFees.cs" />
+    <Compile Include="clsApplicationQuotation.cs" />
+    <Compile Include="clsAppSiteAuditDaysDetail.cs" />
+    <Compile Include="clsAppSiteEmpDetail.cs" />
+    <Compile Include="clsAppSiteHoliday.cs" />
+    <Compile Include="clsAppSiteShifts.cs" />
+    <Compile Include="clsApplicationOfficeSites.cs" />
+    <Compile Include="clsAppIndustryStandard.cs" />
+    <Compile Include="clsAppBusinessPartner.cs" />
+    <Compile Include="clsAppBusinessScope.cs" />
+    <Compile Include="clsAppQuestionAnswer.cs" />
+    <Compile Include="clsAppStandardQuestion.cs" />
+    <Compile Include="clsIndustryStandard.cs" />
+    <Compile Include="clsQuestionType.cs" />
+    <Compile Include="clsAppClientStandard.cs" />
+    <Compile Include="clsApplicationMaster.cs" />
+    <Compile Include="clsClientSiteLanguage.cs" />
+    <Compile Include="clsSiteSubType.cs" />
+    <Compile Include="clsSiteType.cs" />
+    <Compile Include="clsSiteContactPersonGroup.cs" />
+    <Compile Include="clsClientSites.cs" />
+    <Compile Include="clsClientTypes.cs" />
+    <Compile Include="clsClientMaster.cs" />
+    <Compile Include="clsAccreditationAddresses.cs" />
+    <Compile Include="clsAccreditationBody .cs" />
+    <Compile Include="clsClientContactPersons.cs" />
+    <Compile Include="clsApplicationDetail.cs" />
+    <Compile Include="clsStandardQuestionForApp.cs" />
+    <Compile Include="clsUser.cs" />
+    <Compile Include="clsUserLogin.cs" />
+    <Compile Include="clsEmployeeBreakDownDtl.cs" />
+    <Compile Include="clsEmployeeBreakDownMaster.cs" />
+    <Compile Include="clsNonConformaties.cs" />
+    <Compile Include="clsDormitoriesEmployee.cs" />
+    <Compile Include="clsAuditExecutionProcessStep.cs" />
+    <Compile Include="clsEmployeeRange.cs" />
+    <Compile Include="clsCompanyStandards.cs" />
+    <Compile Include="clsRiskTableStatus.cs" />
+    <Compile Include="clsCheckListSection.cs" />
+    <Compile Include="clsInterviewSampling.cs" />
+    <Compile Include="clsCheckList.cs" />
+    <Compile Include="clsQuestionsBank.cs" />
+    <Compile Include="clsStandardSetupSteps.cs" />
+    <Compile Include="clsStandardDocument.cs" />
+    <Compile Include="clsAuditClauseMapping.cs" />
+    <Compile Include="clsAuditDurationCalculation.cs" />
+    <Compile Include="clsStandardSetup.cs" />
+    <Compile Include="clsAdressType.cs" />
+    <Compile Include="clsAuditClauses.cs" />
+    <Compile Include="clsIndustryCategory.cs" />
+    <Compile Include="clsAuditType.cs" />
+    <Compile Include="clsAnnouncementType.cs" />
+    <Compile Include="clsAuditStandards.cs" />
+    <Compile Include="clsAuditCycle.cs" />
+    <Compile Include="clsSetupSteps.cs" />
+    <Compile Include="clsStepStatus.cs" />
+    <Compile Include="clsOfficeDocumentDtl.cs" />
+    <Compile Include="clsOfficeActiveSts.cs" />
+    <Compile Include="clsUserApprovalLog.cs" />
+    <Compile Include="clsOfficeActiveLog.cs" />
+    <Compile Include="clsOfficeStandards.cs" />
+    <Compile Include="clsOfficeSetupSteps.cs" />
+    <Compile Include="clsCompanyType.cs" />
+    <Compile Include="clsCurrency.cs" />
+    <Compile Include="clsBankAdditionalDetails.cs" />
+    <Compile Include="clsBusinessType.cs" />
+    <Compile Include="clsCity.cs" />
+    <Compile Include="clsCompany.cs" />
+    <Compile Include="clsBankCharges.cs" />
+    <Compile Include="clsOfficeBanksDetail.cs" />
+    <Compile Include="clsContactPersonsAndUsers.cs" />
+    <Compile Include="clsOfficeDocumentMaster.cs" />
+    <Compile Include="clsContactType.cs" />
+    <Compile Include="clsCountry.cs" />
+    <Compile Include="clsDesignation.cs" />
+    <Compile Include="clsEmailTypes.cs" />
+    <Compile Include="clsMain.cs" />
+    <Compile Include="clsOffice.cs" />
+    <Compile Include="clsOfficeContactNo.cs" />
+    <Compile Include="clsOfficeAddresses.cs" />
+    <Compile Include="clsOfficeDocType.cs" />
+    <Compile Include="clsOfficeEmail.cs" />
+    <Compile Include="ClsRegister.cs" />
+    <Compile Include="clsStateProvince.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="clsOfficeType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

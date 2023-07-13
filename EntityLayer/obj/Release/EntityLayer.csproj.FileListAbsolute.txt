@@ -1,0 +1,24 @@
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\EntityLayer\obj\Release\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\EntityLayer\bin\Release\EntityLayer.dll
+E:\Evolve\Accordia 16092022\EntityLayer\bin\Release\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+E:\Evolve\Accordia 16092022\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Evolve\Accordia 16092022\EntityLayer\obj\Release\EntityLayer.dll
+E:\Evolve\Accordia 16092022\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\EntityLayer\obj\Release\EntityLayer.pdb

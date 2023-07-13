@@ -1,0 +1,631 @@
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.Development.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.deps.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Core.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Common.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Humanizer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IO.Hashing.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Memory.Data.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll.config
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.pdb
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\STARIZ.PK\source\Repos\fahimnaseemEvolve\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\appsettings.Development.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\appsettings.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.deps.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.dev.json
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ref\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Accordia_Project.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Azure.Core.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Azure.Storage.Common.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Azure.Storage.Files.Shares.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Humanizer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.Identity.Client.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Composition.AttributedModel.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Composition.Convention.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Composition.Hosting.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Composition.Runtime.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Composition.TypedParts.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.IO.Hashing.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Memory.Data.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Runtime.Caching.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\EntityLayer.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\DataAccessLayer.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll.config
+E:\Evolve\Accordia 16092022\Accordia_Project\bin\Release\net5.0\EntityLayer.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfo.cs
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CopyComplete
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\ref\Accordia_Project.dll
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.pdb
+E:\Evolve\Accordia 16092022\Accordia_Project\obj\Release\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.deps.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Core.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Common.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Humanizer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IO.Hashing.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Memory.Data.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll.config
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.pdb
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Auth.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\Talha Naeem\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Core.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\appsettings.json
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.exe
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.deps.json
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.json
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.runtimeconfig.dev.json
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Accordia_Project.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Core.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Common.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Azure.Storage.Files.Shares.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Auth.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Google.Apis.Core.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Humanizer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.IO.Hashing.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Memory.Data.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\DataAccessLayer.dll.config
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\EntityLayer.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.AssemblyReference.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfoInputs.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.AssemblyInfo.cs
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CoreCompileInputs.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.Manifest.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\staticwebassets\Accordia_Project.StaticWebAssets.xml
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\scopedcss\bundle\Accordia_Project.styles.css
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.csproj.CopyComplete
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\ref\Accordia_Project.dll
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.pdb
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\obj\Release\net5.0\Accordia_Project.genruntimeconfig.cache
+C:\Users\Evolve_Lead\source\repos\EvolveAMS\Accordia_Project\bin\Release\net5.0\Dapper.dll

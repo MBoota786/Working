@@ -1,0 +1,10 @@
+.sender-message {
+    text-align: right;
+    background-color: lightblue;
+  }
+  
+  .receiver-message {
+    text-align: left;
+    background-color: lightgreen;
+  }
+  
