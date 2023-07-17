@@ -17,7 +17,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
     public class officeStandardsController : ControllerBase
     {
         officeStandardsDAL _activeDAL = new officeStandardsDAL();
-        clsResult result = new clsResult(); 
+        clsResult result = new clsResult();
         [HttpGet]
         public clsResult Get(string dbName)
         {
@@ -34,13 +34,13 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 result.error = ex.Message;
             }
             return result;
-        }  
+        }
         [HttpGet("GetByOfficeId/{officeId}")]
-        public clsResult GetByOfficeId(int officeId,string dbName)
+        public clsResult GetByOfficeId(int officeId, string dbName)
         {
             try
             {
-                List<clsOfficeStandards> offList = _activeDAL.SelectOfficeStandardsByOfficeId(officeId,dbName);
+                List<clsOfficeStandards> offList = _activeDAL.SelectOfficeStandardsByOfficeId(officeId, dbName);
                 result.Data = new List<object>();
                 result.Data.AddRange(offList);
                 result.isSuccess = true;
@@ -53,9 +53,9 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             return result;
         }
 
-       
+
         [HttpGet("{id}")]
-        public clsResult Get(int id,string dbName)
+        public clsResult Get(int id, string dbName)
         {
             try
             {
@@ -72,7 +72,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             return result;
         }
 
-       
+
         [HttpPost]
         public clsResult Post([FromBody] List<clsOfficeStandards> list)
         {
@@ -82,23 +82,21 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 {
                     foreach (var value in list)
                     {
-
-                 
-                if (value.id > 0)
-                {
-                    //Update Query
-                    _activeDAL.UpdateOfficeStandards(ValidateData(value));
-                    result.id = value.id;
-                    result.message = General.messageModel.updateMessage;
-                    result.isSuccess = true;
-                }
-                else
-                {
-                    // Insert Query
-                    int Id = _activeDAL.InsertOfficeStandards(ValidateData(value));
-                    result.id = Id;
-                    result.message = General.messageModel.insertMessage;
-                    result.isSuccess = true;
+                        if (value.id > 0)
+                        {
+                            //Update Query
+                            _activeDAL.UpdateOfficeStandards(ValidateData(value));
+                            result.id = value.id;
+                            result.message = General.messageModel.updateMessage;
+                            result.isSuccess = true;
+                        }
+                        else
+                        {
+                            // Insert Query
+                            int Id = _activeDAL.InsertOfficeStandards(ValidateData(value));
+                            result.id = Id;
+                            result.message = General.messageModel.insertMessage;
+                            result.isSuccess = true;
                         }
                     }
                 }

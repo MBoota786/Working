@@ -13,7 +13,6 @@ namespace DataAccessLayer
     {
         public int InsertBusinessType(clsBusinessType ls)
         {
-
             int Id = 0;
             try
             {
@@ -30,7 +29,6 @@ namespace DataAccessLayer
                 throw ex;
             }
             return Id;
-
         }
         public bool UpdateBusinessType(clsBusinessType ls)
         {

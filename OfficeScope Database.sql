@@ -1,37 +1,19 @@
---__________________________ Office Scop _____________________________________
-select * from tblOfficeScope
+sp_helptext spSelectOfficeCategoryRelationByOfficeId
 
 
---_______ 1. Select all scope ____________
-exec spSelectAllOfficeScope
-select * from tblServiceScope
-
---_______ 2. Select scope by Id____________
-exec spSelectOfficeScopeById 1
-
---_______ 3. Select scope by officeId____________
-use EvolveMain
-exec spSelectOfficeScopeByOfficeId 1008
-
-CREATE proc spSelectOfficeScopeByOfficeId(@officeId int)
-	as
-	SELECT [id]
-		  ,[officeId]
-		  ,[countryId]
-		  ,[serviceScopeId]
-		  ,isExclusive
-		  ,[active]
-		  ,[createdOn]
-		  ,[createdBy]
-		  ,[modifiedOn]
-		  ,[modifiedBy]
-	  FROM [dbo].[tblOfficeScope]
-	  where active = 1 and officeId = @officeId
-
-
---_______ 4. Insert ____________
-spInsertOfficeScope
-
---_______ 5. Update ____________
-
-
+CREATE proc spSelectOfficeCategoryRelationByOfficeId(@officeId int)
+as
+SELECT [id]
+      ,[officeId]
+      ,[serviceScopeId]
+      ,[hoCategoryRelationId]
+      ,[relatedOfficeId]
+      ,[isRelatedWithCO]
+      ,[isRelatedWithRO]
+      ,[isOfficeDemographicScope]
+	  ,isOfficeExclusive								
+      ,[active]
+      ,[createdOn]
+      ,[createdBy]
+  FROM [dbo].[tblOfficeCategoryRelation]
+  where active = 1 and officeId = @officeId

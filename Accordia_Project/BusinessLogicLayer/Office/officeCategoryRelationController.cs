@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Accordia_Project.BusinessLogicLayer.Office
 {
-    [Authorize]
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class officeCategoryRelationController : ControllerBase
@@ -21,6 +21,8 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         clsResult result =new clsResult();
         officeScopeController _scopeController = new officeScopeController();
         officeStandardsController _standardController = new officeStandardsController();
+        officeStandardsDAL _standardDAL = new officeStandardsDAL();
+
         [HttpGet]
         public clsResult Get(string dbName)
         {
@@ -38,6 +40,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             }
             return result;
         }
+
         [HttpGet("{id}")]
         public clsResult Get(int id, string dbName)
         {
@@ -61,6 +64,11 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             try
             {
                 clsOfficeCategoryRelation off = _activeDAL.SelectOfficeCategoryRelationByOfficeId(officeId, dbName).FirstOrDefault();
+                //___ get officeStandard by office Id __
+                if (off != null)
+                {
+                    off.listOfficeStandard = _standardDAL.SelectOfficeStandardsByOfficeId(officeId,null);
+                }
                 result.Data = new List<object>();
                 result.Data.Add(off);
                 result.isSuccess = true;
@@ -87,7 +95,6 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 }
                 else
                 {
-
                     // Insert Query
                     int Id = _activeDAL.InsertOfficeCategoryRelation(ValidateData(value));
                     result.id = Id;

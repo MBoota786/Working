@@ -13,7 +13,6 @@ namespace DataAccessLayer
     {
         public int InsertOfficeCategoryRelation(clsOfficeCategoryRelation obj)
         {
-
             int Id = 0;
             try
             {

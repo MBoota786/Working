@@ -139,7 +139,6 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             {
                 value.modifiedBy = value.userId;
                 value.modifiedOn = DateTime.Now;
-
                 if (value.otherBusinessType != null && value.otherBusinessType != "")
                 {
                     value.businessTypeId = CheckAndInsertBusinessType(value.otherBusinessType, value.dbName, value.userId);
@@ -165,7 +164,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 }
                 if (value.otherBusinessType != null && value.otherBusinessType != "")
                 {
-                  value.businessTypeId =  CheckAndInsertBusinessType(value.otherBusinessType, value.dbName, value.userId);
+                   value.businessTypeId =  CheckAndInsertBusinessType(value.otherBusinessType, value.dbName, value.userId);
                 }
                 //Set Office Code
                 value.officeCode = InitializeCode(value.dbName, value.officeTypeId);
@@ -188,7 +187,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             }
             else
             {
-            return _activeDAL.SelectBusinessTypeByName(businessTypeName, dbName).FirstOrDefault().id;
+                return _activeDAL.SelectBusinessTypeByName(businessTypeName, dbName).FirstOrDefault().id;
             }
         }
 

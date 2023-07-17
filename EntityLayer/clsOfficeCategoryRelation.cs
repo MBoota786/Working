@@ -18,7 +18,9 @@ namespace EntityLayer
         public bool isOfficeDemographicScope { get; set; }
         public bool isOfficeExclusive { get; set; }
         public List<clsOfficeStandards> listOfficeStandard { get; set; }
-     //   public List<clsOfficeScope> listOfficeScope { get; set; }
+        //public List<clsOfficeState> listOfficeState { get; set; }
+        //public List<clsOfficeCity> listOfficeCity { get; set; }
+        //   public List<clsOfficeScope> listOfficeScope { get; set; }
 
         public override string ToString()
         {

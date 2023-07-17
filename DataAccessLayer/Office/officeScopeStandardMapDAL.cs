@@ -13,7 +13,6 @@ namespace DataAccessLayer
     {
         public int InsertOfficeScopeStandardMap(clsOfficeScopeStandardMap obj)
         {
-
             int Id = 0;
             try
             {

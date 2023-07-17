@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Accordia_Project.BusinessLogicLayer.Office
 {
-    [Authorize]
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class officeBanksDetailController : ControllerBase
