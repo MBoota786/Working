@@ -13,7 +13,6 @@ namespace DataAccessLayer
     {
         public int InsertOfficeStandards(clsOfficeStandards ls)
         {
-
             int Id = 0;
             try
             {
@@ -31,7 +30,6 @@ namespace DataAccessLayer
                 throw ex;
             }
             return Id;
-
         }
         public bool UpdateOfficeStandards(clsOfficeStandards ls)
         {

@@ -85,6 +85,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             return result;
         }
 
+        /*
         //[HttpPost]
         //public clsResult Post([FromBody] List<clsOfficeScope> list)
         //{
@@ -177,7 +178,10 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         //    }
         //    return result;
         //}
+        */
 
+        /*________ Modified by  M : SAQIB ________*/
+        //check  isExclusive base  state,City
         [HttpPost]
         public clsResult Post([FromBody] List<clsOfficeScope> list)
         {
@@ -209,8 +213,8 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                         }
                         else
                         {
-                            // Insert Query
-                            // Check if State of scope already exists
+                            //Insert Query
+                            //Check if State of scope already exists
                             //bool exist = false;
                             //List<clsOfficeScope> offScopList = _activeDAL.SelectAllOfficeScope(null);
                             //foreach (var offScop in offScopList)
@@ -350,9 +354,9 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 result.error = ex.Message;
             }
 
-
             return result;
         }
+
 
         private void log(clsOfficeScope obj, string actionName, string dbName, string formName)
         {
@@ -447,6 +451,8 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 throw new ArgumentException("Error Throw From Office Scope City Insert.");
             }
         }
+
+
         private List<clsOfficeScopeStandardMap> GetMapStandard(int officeScopeId, string dbName)
         {
             try
@@ -496,6 +502,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                     //item.scopeCity = new List<clsOfficeScopeCityMap>();
                     //item.scopeCity = GetMapCity(item.id, dbName);
 
+
                     //============== Modified By Saqib ================== 10:18 , 7/17/2023
                     item.scopeStandard = new List<clsOfficeScopeStandardMap>();
                     item.scopeStandard = GetMapStandard(item.id, dbName);
@@ -507,6 +514,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             }
             return list;
         }
+
         private clsOfficeScope ValidateData(clsOfficeScope value)
         {
             //Add Logic For Insert And Update

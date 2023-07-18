@@ -18,6 +18,7 @@ namespace DataAccessLayer
             {
                 SqlCommand comm = new SqlCommand();
                 AddParamToSQLCmd(comm, "@id", SqlDbType.Int, 4, ParameterDirection.Output, (object)obj.id ?? DBNull.Value);
+                AddParamToSQLCmd(comm, "@countryId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.officeId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@officeId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.officeId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@serviceScopeId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.serviceScopeId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@hoCategoryRelationId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.hoCategoryRelationId ?? DBNull.Value);
@@ -45,6 +46,7 @@ namespace DataAccessLayer
                 SqlCommand comm = new SqlCommand();
                 AddParamToSQLCmd(comm, "@id", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.id ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@officeId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.officeId ?? DBNull.Value);
+                AddParamToSQLCmd(comm, "@countryId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.officeId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@serviceScopeId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.serviceScopeId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@hoCategoryRelationId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.hoCategoryRelationId ?? DBNull.Value);
                 AddParamToSQLCmd(comm, "@relatedOfficeId", SqlDbType.Int, 4, ParameterDirection.Input, (object)obj.relatedOfficeId ?? DBNull.Value);

@@ -47,6 +47,9 @@
     <Compile Include="clsNoticeBoard\clsMsgFiles.cs" />
     <Compile Include="clsNoticeBoard\clsPrivateMessage.cs" />
     <Compile Include="clsNoticeBoard\clsUserRoles.cs" />
+    <Compile Include="clsOfficeCategoryCityMap.cs" />
+    <Compile Include="clsOfficeCategoryRelationStandardMap.cs" />
+    <Compile Include="clsOfficeCategoryStateMap.cs" />
     <Compile Include="clsStandardRights.cs" />
     <Compile Include="clsStandardRightPoint.cs" />
     <Compile Include="clsBuyerContactPerson.cs" />

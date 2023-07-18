@@ -98,7 +98,10 @@
     <Compile Include="Dashboard\dashboardDAL.cs" />
     <Compile Include="NoticeBoardDAL\privateMessageDAL.cs" />
     <Compile Include="NoticeBoardDAL\UserRolesDAL.cs" />
+    <Compile Include="officeCategoryRelationCityMapDAL.cs" />
     <Compile Include="officeCategoryRelationDAL.cs" />
+    <Compile Include="officeCategoryRelationStandardMapDAL.cs" />
+    <Compile Include="officeCategoryRelationStateMapDAL.cs" />
     <Compile Include="Office\standardRightsDAL.cs" />
     <Compile Include="Office\standardRightPointDAL.cs" />
     <Compile Include="Office\officeScopeStateMapDAL.cs" />
