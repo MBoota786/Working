@@ -140,6 +140,7 @@ namespace DataAccessLayer
                     clsOfficeCategoryRelation obj = new clsOfficeCategoryRelation();
                     obj.id = returnData["id"] is DBNull ? (int)0 : (int)returnData["id"];
                     obj.officeId = returnData["officeId"] is DBNull ? (int)0 : (int)returnData["officeId"];
+                    obj.countryId = returnData["countryId"] is DBNull ? (int)0 : (int)returnData["countryId"];
                     obj.serviceScopeId = returnData["serviceScopeId"] is DBNull ? (int)0 : (int)returnData["serviceScopeId"];
                     obj.relatedOfficeId = returnData["relatedOfficeId"] is DBNull ? (int)0 : (int)returnData["relatedOfficeId"];
                     obj.hoCategoryRelationId = returnData["hoCategoryRelationId"] is DBNull ? (int)0 : (int)returnData["hoCategoryRelationId"];

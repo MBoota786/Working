@@ -63,6 +63,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             }
             return result;
         }
+
         [HttpGet("GetByOfficeId")]
         public clsResult GetByOfficeId(int id, string dbName)
         {
@@ -194,6 +195,85 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                     foreach (var value in list)
                     {
 
+                        bool stateExist = false;
+                        bool cityExist = false;
+                        string stateMessage = "";
+                        string cityMessage = "";
+
+                        List<clsOfficeScope> offScopList = _activeDAL.SelectAllOfficeScope(null);
+                        if (offScopList.Count > 0)
+                        {
+                            //_______________ 1. check State _______________
+                            foreach (var offScop in offScopList)
+                            {
+                                if (offScop.id != value.id)
+                                {
+                                    if (offScop.isExclusive)
+                                    {
+                                        List<clsOfficeScopeStateMap> SelectOfficeScopeStateMap = stateMapDAL.spSelectOfficeScopeStateMapByOfficeScopeId(offScop.id, null);
+
+                                        foreach (var state in SelectOfficeScopeStateMap)
+                                        {
+                                            foreach (var scopstate in value.scopeState)
+                                            {
+                                                if (state.stateProvinceId == scopstate.stateProvinceId)
+                                                {
+                                                    //string errorMessage = string.Format("{0} : State is already taken", state.stateProvinceName);
+                                                    //result.message = errorMessage;
+                                                    //return result;
+                                                    stateMessage = string.Format("{0} State is already taken", state.stateProvinceName);
+                                                    stateExist = true;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            //_______________ 2. check City  _______________
+                            foreach (var offScop in offScopList.Where(x => x.isExclusive && x.id != value.id))
+                            {
+                                List<clsOfficeScopeCityMap> SelectOfficeScopeStateMap = cityMapDAL.spSelectOfficeScopeCityMapByOfficeScopeId(offScop.id, null);
+                                foreach (var state in SelectOfficeScopeStateMap)
+                                {
+                                    foreach (var scopstate in value.scopeCity)
+                                    {
+                                        if (state.cityId == scopstate.cityId)
+                                        {
+                                            string errorMessage = string.Format("{0} : City is already taken", state.cityName);
+                                            //result.message = errorMessage;
+                                            //return result;
+                                            cityMessage = string.Format("{0} City is already taken", state.cityName);
+                                            cityExist = true;
+                                        }
+                                    }
+                                }
+                            }
+
+
+                            if (cityExist || cityExist)
+                            {
+                                var errorMessage = "";
+
+                                if (cityExist && stateExist)
+                                {
+                                    errorMessage = cityMessage + " <br> " + stateMessage;
+                                }
+                                else if (cityExist)
+                                {
+                                    errorMessage = cityMessage;
+                                }
+                                else if (stateExist)
+                                {
+                                    errorMessage = stateMessage;
+                                }
+
+                                throw new Exception(errorMessage);
+                            }
+                        }
+
+
+
                         if (value.id > 0)
                         {
                             // Update Query
@@ -236,96 +316,23 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                             //        }
                             //    }
                             //}
-                            bool stateExist = false;
-                            bool cityExist = false;
-                            string stateMessage = "";
-                            string cityMessage = "";
+                            
+                            
+                            int Id = _activeDAL.InsertOfficeScope(ValidateData(value));
+                            result.id = Id;
+                            value.id = Id;
 
-                            List<clsOfficeScope> offScopList = _activeDAL.SelectAllOfficeScope(null);
-                            if (offScopList.Count > 0)
+                            if (value.id > 0)
                             {
-                                //_______________ 1. check State _______________
-                                foreach (var offScop in offScopList)
-                                {
-                                    if (offScop.isExclusive)
-                                    {
-                                        List<clsOfficeScopeStateMap> SelectOfficeScopeStateMap = stateMapDAL.spSelectOfficeScopeStateMapByOfficeScopeId(offScop.id, null);
-
-                                        foreach (var state in SelectOfficeScopeStateMap)
-                                        {
-                                            foreach (var scopstate in value.scopeState)
-                                            {
-                                                if (state.stateProvinceId == scopstate.stateProvinceId)
-                                                {
-                                                    //string errorMessage = string.Format("{0} : State is already taken", state.stateProvinceName);
-                                                    //result.message = errorMessage;
-                                                    //return result;
-                                                    stateMessage = string.Format("{0} State is already taken", state.stateProvinceName);
-                                                    stateExist = true;
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-
-                                //_______________ 2. check City  _______________
-                                foreach (var offScop in offScopList.Where(x => x.isExclusive))
-                                {
-                                    List<clsOfficeScopeCityMap> SelectOfficeScopeStateMap = cityMapDAL.spSelectOfficeScopeCityMapByOfficeScopeId(offScop.id, null);
-                                    foreach (var state in SelectOfficeScopeStateMap)
-                                    {
-                                        foreach (var scopstate in value.scopeCity)
-                                        {
-                                            if (state.cityId == scopstate.cityId)
-                                            {
-                                                string errorMessage = string.Format("{0} : City is already taken", state.cityName);
-                                                //result.message = errorMessage;
-                                                //return result;
-                                                cityMessage = string.Format("{0} City is already taken", state.cityName);
-                                                cityExist = true;
-                                            }
-                                        }
-                                    }
-                                }
-                                if (cityExist || cityExist)
-                                {
-                                    var errorMessage = "";
-
-                                    if (cityExist && stateExist)
-                                    {
-                                        errorMessage = cityMessage + " <br> " + stateMessage;
-                                    }
-                                    else if (cityExist)
-                                    {
-                                        errorMessage = cityMessage;
-                                    }
-                                    else if (stateExist)
-                                    {
-                                        errorMessage = stateMessage;
-                                    }
-
-                                    throw new Exception(errorMessage);
-                                }
+                                InsertMapStandardData(value);
+                                InsertMapStateData(value);
+                                InsertMapCityData(value);
                             }
 
-                            //_____ if city exist ho to work na kraa _______
-                            if (stateExist == false && cityExist == false)
-                            {
-                                int Id = _activeDAL.InsertOfficeScope(ValidateData(value));
-                                result.id = Id;
-                                value.id = Id;
-
-                                if (value.id > 0)
-                                {
-                                    InsertMapStandardData(value);
-                                    InsertMapStateData(value);
-                                    InsertMapCityData(value);
-                                }
-
-                                result.message = General.messageModel.insertMessage;
-                                result.isSuccess = true;
-                                log(value, "Insert", value.dbName, "Office Scope");
-                            }
+                            result.message = General.messageModel.insertMessage;
+                            result.isSuccess = true;
+                            log(value, "Insert", value.dbName, "Office Scope");
+                            
                         }
                     }
 

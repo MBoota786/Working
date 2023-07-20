@@ -2,40 +2,197 @@
 
 select * from tblOffice
 
+use EvolveMain
 select * from tblOfficeCategoryRelation
 select * from tblOfficeCategoryRelStateMap 
 select * from tblOfficeCategoryRelCityMap
 select * from tblOfficeCategoryRelStandardMap
 
-select * from tblOfficeScope
-select * from tblOfficeScopeCityMap
-select * from tblOfficeScopeStandardMap
-select * from tblOfficeScopeStateMap
-
-
-sp_helptext spSelectOfficeCategoryRelationStateMapByCategoryRelationId
-
-CREATE PROCEDURE [dbo].[spSelectOfficeCategoryRelationStateMapByCategoryRelationId]
-(
-@officeCategoryRelationId INT 
-)
-AS
-BEGIN
-SELECT ssm.[id], [officeCategoryRelationId], [stateProvinceId],sp.stateProvinceName, [active], [createdOn], [createdBy], [modifiedOn], [modifiedBy]
-FROM [dbo].[tblOfficeCategoryRelStateMap] ssm
-left join tblStateProvince sp on sp.id = ssm.stateProvinceId
-WHERE officeCategoryRelationId = @officeCategoryRelationId and active = 1
-END
-
 truncate table tblOfficeCategoryRelation
-truncate table 			   tblOfficeCategoryRelStateMap 
+truncate table tblOfficeCategoryRelStateMap 
 truncate table tblOfficeCategoryRelCityMap
 truncate table tblOfficeCategoryRelStandardMap
 
-select * from tblStateProvince
-select * from tblServiceScope
 
---================ 1. tblOfficeCategoryRelStandardMap ================
+select * from tblStateProvince where stateProvinceName  like 'is'
+
+
+--================ 1. Adding Country Table ================
+sp_helpText spSelectOfficeCategoryRelationByOfficeId
+select * from tblStateProvince where countryId = 167
+
+alter proc spSelectAllOfficeCategoryRelation
+as
+SELECT [id]
+      ,[officeId]
+	  ,[countryId]
+      ,[serviceScopeId]
+      ,[hoCategoryRelationId]
+      ,[relatedOfficeId]
+      ,[isRelatedWithCO]
+      ,[isRelatedWithRO]
+      ,[isOfficeDemographicScope]
+	  ,isOfficeExclusive
+      ,[active]
+      ,[createdOn]
+      ,[createdBy]
+  FROM [dbo].[tblOfficeCategoryRelation]
+  where active = 1
+
+
+  
+
+
+  CREATE proc spUpdateOfficeCategoryRelation
+(@id int 
+,@officeId int
+		,@countryId int
+        ,@serviceScopeId int
+        ,@hoCategoryRelationId int
+        ,@relatedOfficeId int
+        ,@isRelatedWithCO bit
+        ,@isRelatedWithRO bit
+        ,@isOfficeDemographicScope bit
+		,@isOfficeExclusive bit
+        ,@active bit
+        ,@modifiedOn datetime
+        ,@modifiedBy int
+		)
+as
+update [dbo].[tblOfficeCategoryRelation]
+           set
+		    [officeId]                   = @officeId
+			,[countryId]					 = @countryId
+           ,[serviceScopeId]			 = @serviceScopeId 
+           ,[hoCategoryRelationId]		 = @hoCategoryRelationId 
+           ,[relatedOfficeId]			 = @relatedOfficeId 
+           ,[isRelatedWithCO]			 = @isRelatedWithCO 
+           ,[isRelatedWithRO]			 = @isRelatedWithRO 
+           ,[isOfficeDemographicScope]	 = @isOfficeDemographicScope
+		   ,isOfficeExclusive            = @isOfficeExclusive
+           ,[active]					 = @active 
+           ,[modifiedOn]					 = @modifiedOn 
+           ,[modifiedBy]					 = @modifiedBy 
+		  where id = @id
+
+
+alter proc spInsertOfficeCategoryRelation
+(@id int output
+			,@officeId int
+			,@countryId int
+           ,@serviceScopeId int
+           ,@hoCategoryRelationId int
+           ,@relatedOfficeId int
+           ,@isRelatedWithCO bit
+           ,@isRelatedWithRO bit
+           ,@isOfficeDemographicScope bit
+		   ,@isOfficeExclusive bit
+           ,@active bit
+           ,@createdOn datetime
+           ,@createdBy int
+		   )
+as
+INSERT INTO [dbo].[tblOfficeCategoryRelation]
+           (
+		   [officeId]
+		   ,[countryId]
+           ,[serviceScopeId]
+           ,[hoCategoryRelationId]
+           ,[relatedOfficeId]
+           ,[isRelatedWithCO]
+           ,[isRelatedWithRO]
+           ,[isOfficeDemographicScope]
+		   ,isOfficeExclusive
+           ,[active]
+           ,[createdOn]
+           ,[createdBy]
+		   )
+     VALUES
+           (@officeId 
+           ,@serviceScopeId 
+		   ,@countryId
+           ,@hoCategoryRelationId 
+           ,@relatedOfficeId 
+           ,@isRelatedWithCO 
+           ,@isRelatedWithRO 
+           ,@isOfficeDemographicScope
+		   ,@isOfficeExclusive 
+           ,@active 
+           ,@createdOn 
+           ,@createdBy 
+		   )
+select @id = @@IDENTITY
+
+
+alter proc spSelectAllOfficeCategoryRelation
+as
+SELECT [id]
+      ,[officeId]
+	  ,[countryId]
+      ,[serviceScopeId]
+      ,[hoCategoryRelationId]
+      ,[relatedOfficeId]
+      ,[isRelatedWithCO]
+      ,[isRelatedWithRO]
+      ,[isOfficeDemographicScope]
+	  ,isOfficeExclusive
+      ,[active]
+      ,[createdOn]
+      ,[createdBy]
+  FROM [dbo].[tblOfficeCategoryRelation]
+  where active = 1
+
+
+alter proc spSelectOfficeCategoryRelationById(@id int)
+as
+SELECT [id]
+      ,[officeId]
+	  ,[countryId]
+      ,[serviceScopeId]
+      ,[hoCategoryRelationId]
+      ,[relatedOfficeId]
+      ,[isRelatedWithCO]
+      ,[isRelatedWithRO]
+      ,[isOfficeDemographicScope]
+	  ,isOfficeExclusive
+      ,[active]
+      ,[createdOn]
+      ,[createdBy]
+  FROM [dbo].[tblOfficeCategoryRelation]
+  where id = @id
+
+
+  
+
+alter proc spSelectOfficeCategoryRelationByOfficeId(@officeId int)
+as
+SELECT [id]
+      ,[officeId]
+	  ,[countryId]
+      ,[serviceScopeId]
+      ,[hoCategoryRelationId]
+      ,[relatedOfficeId]
+      ,[isRelatedWithCO]
+      ,[isRelatedWithRO]
+      ,[isOfficeDemographicScope]
+	  ,isOfficeExclusive								
+      ,[active]
+      ,[createdOn]
+      ,[createdBy]
+  FROM [dbo].[tblOfficeCategoryRelation]
+  where active = 1 and officeId = @officeId
+
+
+
+--truncate table tblOfficeCategoryRelation
+--truncate table tblOfficeCategoryRelStateMap 
+--truncate table tblOfficeCategoryRelCityMap
+--truncate table tblOfficeCategoryRelStandardMap
+
+
+
+
+--================ 2. tblOfficeCategoryRelStandardMap ================
 sp_helpText spInsertOfficeScopeStandardMap
 sp_helpText spUpdateOfficeScopeStandardMap
 sp_helpText spDeleteOfficeScopeStandardMap
@@ -92,9 +249,11 @@ CREATE PROCEDURE [dbo].[spSelectOfficeCategoryRelationStandardMap]
 )
 AS
 BEGIN
+
 SELECT [id], officeCategoryRelationId, [accreditationStandardId], [active], [createdOn], [createdBy], [modifiedOn], [modifiedBy]
 FROM [dbo].[tblOfficeCategoryRelStandardMap]
 WHERE (@id IS NULL OR id = @id) and active = 1
+
 END
 
 
@@ -118,7 +277,7 @@ END
 
 
 
---================ 2. tblOfficeCategoryRelStateMap ================
+--================ 3. tblOfficeCategoryRelStateMap ================
 
 create PROCEDURE [dbo].[spInsertOfficeCategoryRelationStateMap]
 (
@@ -195,7 +354,7 @@ END
 
 
 
---================ 3. tblOfficeCategoryRelCityMap ================
+--================ 4. tblOfficeCategoryRelCityMap ================
 
 /*#region City */
 

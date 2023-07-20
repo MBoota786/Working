@@ -52,6 +52,7 @@ namespace DataAccessLayer
             }
             return true;
         }
+
         public bool DeleteOfficeCategoryRelationStandardMap(int officeCategoryRelationId, string dbName)
         {
             try
@@ -66,6 +67,7 @@ namespace DataAccessLayer
             }
             return true;
         }
+
         public List<clsOfficeCategoryRelationStandardMap> SelectOfficeCategoryRelationStandardMap(string dbName)
         {
             try
@@ -88,6 +90,7 @@ namespace DataAccessLayer
             }
             return new List<clsOfficeCategoryRelationStandardMap>();
         }
+
         public List<clsOfficeCategoryRelationStandardMap> SelectOfficeCategoryRelationStandardMapById(int id, string dbName)
         {
             try
@@ -110,6 +113,7 @@ namespace DataAccessLayer
             }
             return new List<clsOfficeCategoryRelationStandardMap>();
         }
+
         public List<clsOfficeCategoryRelationStandardMap> spSelectOfficeCategoryRelationStandardMapByOfficeScopeId(int officeCategoryRelationId, string dbName)
         {
             try

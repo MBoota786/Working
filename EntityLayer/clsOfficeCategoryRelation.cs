@@ -19,7 +19,9 @@ namespace EntityLayer
         public bool isOfficeDemographicScope { get; set; }
         public bool isOfficeExclusive { get; set; }
 
-        public List<clsOfficeStandards> listOfficeStandard { get; set; }
+        //public List<clsOfficeStandards> listOfficeStandard { get; set; }
+        //commit By   SAQIb   7/20/2023  Following   OfficeScope APi   pattern
+
         public List<clsOfficeCategoryRelationStandardMap> listOfficeCategoryRelStandard { get; set; }
         public List<clsOfficeCategoryStateMap> listOfficeState { get; set; }
         public List<clsOfficeCategoryCityMap> listOfficeCity { get; set; }

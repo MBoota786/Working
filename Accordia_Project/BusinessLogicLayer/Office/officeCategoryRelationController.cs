@@ -28,13 +28,18 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         officeCategoryRelationCityMapDAL cityMapDAL = new officeCategoryRelationCityMapDAL();
 
         [HttpGet]
-        public clsResult Get(string dbName)
+        public async Task<clsResult> Get(string dbName)
         {
             try
             {
-                List<clsOfficeCategoryRelation> offList = _activeDAL.SelectAllOfficeCategoryRelation(dbName);
+                //List<clsOfficeCategoryRelation> offList = _activeDAL.SelectAllOfficeCategoryRelation(dbName);
+                List<clsOfficeCategoryRelation> offCategoryRel = _activeDAL.SelectAllOfficeCategoryRelation(dbName);
+                if (offCategoryRel != null)
+                {
+                    offCategoryRel = GetMapData(offCategoryRel, dbName);
+                }
                 result.Data = new List<object>();
-                result.Data.AddRange(offList);
+                result.Data.AddRange(offCategoryRel);
                 result.isSuccess = true;
             }
             catch (Exception ex)
@@ -46,13 +51,17 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         }
 
         [HttpGet("{id}")]
-        public clsResult Get(int id, string dbName)
+        public async Task<clsResult> Get(int id, string dbName)
         {
             try
             {
-                clsOfficeCategoryRelation off = _activeDAL.SelectOfficeCategoryRelationById(id, dbName).FirstOrDefault();
+                List<clsOfficeCategoryRelation> offCategoryRel = _activeDAL.SelectOfficeCategoryRelationById(id, dbName);
+                if (offCategoryRel != null)
+                {
+                    offCategoryRel = GetMapData(offCategoryRel, dbName);
+                }
                 result.Data = new List<object>();
-                result.Data.Add(off);
+                result.Data.Add(offCategoryRel);
                 result.isSuccess = true;
             }
             catch (Exception ex)
@@ -64,18 +73,18 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         } 
 
         [HttpGet("GetByOfficeId")]
-        public clsResult GetByOfficeId(int officeId, string dbName)
+        public async Task<clsResult> GetByOfficeId(int officeId, string dbName)
         {
             try
             {
-                clsOfficeCategoryRelation off = _activeDAL.SelectOfficeCategoryRelationByOfficeId(officeId, dbName).FirstOrDefault();
-                //___ get officeStandard by office Id __
-                if (off != null)
+                List<clsOfficeCategoryRelation> offCategoryRel = _activeDAL.SelectOfficeCategoryRelationByOfficeId(officeId, dbName);
+                if (offCategoryRel  != null)
                 {
-                    off.listOfficeStandard = _standardDAL.SelectOfficeStandardsByOfficeId(officeId,null);
+                    //off.listOfficeStandard = _standardDAL.SelectOfficeStandardsByOfficeId(officeId,null);
+                    offCategoryRel = GetMapData(offCategoryRel, dbName);
                 }
                 result.Data = new List<object>();
-                result.Data.Add(off);
+                result.Data.Add(offCategoryRel);
                 result.isSuccess = true;
             }
             catch (Exception ex)
@@ -87,37 +96,22 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         }
 
         [HttpPost]
-        public clsResult Post([FromBody] clsOfficeCategoryRelation value)
+        public async Task<clsResult> Post([FromBody] clsOfficeCategoryRelation value)
         {
             try
             {
-                if (value.id > 0)
+                bool stateExist = false;
+                bool cityExist = false;
+                string stateMessage = "";
+                string cityMessage = "";
+                List<clsOfficeCategoryRelation> offScopList = _activeDAL.SelectAllOfficeCategoryRelation(null);
+                if (offScopList.Count > 0)
                 {
-                    //Update Query
-                    _activeDAL.UpdateOfficeCategoryRelation(ValidateData(value));
-                    result.id = value.id;
-                    if (result.id > 0)
+                    //_______________ 1. check State _______________
+                    foreach (var offCateg in offScopList)
                     {
-                        InsertMapStandardData(value);
-                        InsertMapStateData(value);
-                        InsertMapCityData(value);
-                    }
-                    result.message = General.messageModel.updateMessage;
-                    result.isSuccess = true;
-                }
-                else
-                {
-                    // Insert Query
-                    bool stateExist = false;
-                    bool cityExist = false;
-                    string stateMessage = "";
-                    string cityMessage = "";
-
-                    List<clsOfficeCategoryRelation> offScopList = _activeDAL.SelectAllOfficeCategoryRelation(null);
-                    if (offScopList.Count > 0)
-                    {
-                        //_______________ 1. check State _______________
-                        foreach (var offCateg in offScopList)
+                        //check for  Update if     categoryId == value.id   ----> then it should not check that particular States,City
+                        if (offCateg.id != value.id)
                         {
                             if (offCateg.isOfficeExclusive)
                             {
@@ -139,50 +133,67 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                                 }
                             }
                         }
+                    }
 
-                        //_______________ 2. check City  _______________
-                        foreach (var offScop in offScopList.Where(x => x.isOfficeExclusive))
+                    //_______________ 2. check City  _______________
+                    foreach (var offScop in offScopList.Where(x => x.isOfficeExclusive && x.id != value.id))
+                    {
+                        List<clsOfficeCategoryCityMap> SelectOfficeScopeStateMap = cityMapDAL.spSelectOfficeCategoryRelCityMapByOfficeCatRelId(offScop.id, null);
+                        foreach (var state in SelectOfficeScopeStateMap)
                         {
-                            List<clsOfficeCategoryCityMap> SelectOfficeScopeStateMap = cityMapDAL.spSelectOfficeCategoryRelCityMapByOfficeCatRelId(offScop.id, null);
-                            foreach (var state in SelectOfficeScopeStateMap)
+                            foreach (var catRelCity in value.listOfficeCity)
                             {
-                                foreach (var catRelCity in value.listOfficeCity)
+                                if (state.cityId == catRelCity.cityId)
                                 {
-                                    if (state.cityId == catRelCity.cityId)
-                                    {
-                                        string errorMessage = string.Format("{0} : City is already taken", state.cityName);
-                                        //result.message = errorMessage;
-                                        //return result;
-                                        cityMessage = string.Format("{0} City is already taken", state.cityName);
-                                        cityExist = true;
-                                    }
+                                    string errorMessage = string.Format("{0} : City is already taken", state.cityName);
+                                    //result.message = errorMessage;
+                                    //return result;
+                                    cityMessage = string.Format("{0} City is already taken", state.cityName);
+                                    cityExist = true;
                                 }
                             }
                         }
-
-                        if (cityExist || cityExist)
-                        {
-                            var errorMessage = "";
-
-                            if (cityExist && stateExist)
-                            {
-                                errorMessage = cityMessage + " <br> " + stateMessage;
-                            }
-                            else if (cityExist)
-                            {
-                                errorMessage = cityMessage;
-                            }
-                            else if (stateExist)
-                            {
-                                errorMessage = stateMessage;
-                            }
-
-                            throw new Exception(errorMessage);
-                        }
                     }
 
+                    if (cityExist || cityExist)
+                    {
+                        var errorMessage = "";
+
+                        if (cityExist && stateExist)
+                        {
+                            errorMessage = cityMessage + " <br> " + stateMessage;
+                        }
+                        else if (cityExist)
+                        {
+                            errorMessage = cityMessage;
+                        }
+                        else if (stateExist)
+                        {
+                            errorMessage = stateMessage;
+                        }
+
+                        throw new Exception(errorMessage);
+                    }
+                }
 
 
+                //___ update Query ____
+                if (value.id > 0)
+                {
+                    _activeDAL.UpdateOfficeCategoryRelation(ValidateData(value));
+                    result.id = value.id;
+                    if (result.id > 0)
+                    {
+                        InsertMapStandardData(value);
+                        InsertMapStateData(value);
+                        InsertMapCityData(value);
+                    }
+                    result.message = General.messageModel.updateMessage;
+                    result.isSuccess = true;
+                }
+                //___ Category Query ____
+                else
+                {
                     int Id = _activeDAL.InsertOfficeCategoryRelation(ValidateData(value));
                     result.id = Id;
                     value.id = Id;
@@ -192,30 +203,26 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                         InsertMapStateData(value);
                         InsertMapCityData(value);
                     }
-
-                    //________ Fetch Last   All record   singleRecord + List ________________
-                    List<clsOfficeCategoryRelation> offScopListbyId = _activeDAL.SelectOfficeCategoryRelationById(value.id, "");
-                    if (value != null)
-                    {
-                        offScopList = GetMapData(offScopListbyId, "");
-                    }
-                    result.Data = new List<object>();
-                    result.Data.Add(offScopListbyId.FirstOrDefault());
-
                     result.message = General.messageModel.insertMessage;
                     result.isSuccess = true;
                 }
-                //if (value.listOfficeScope != null)
-                //{
-                //    _scopeController.Post(value.listOfficeScope);
-                //}
 
-                //_________ Change krna yaa nhin ____________
 
-                if (value.listOfficeStandard != null)
+                //___ Fetch All List ___  for Edit,Create
+                List<clsOfficeCategoryRelation> offScopListbyId = _activeDAL.SelectOfficeCategoryRelationById(value.id, "");
+                if (value != null)
                 {
-                    _standardController.Post(value.listOfficeStandard);
+                    offScopList = GetMapData(offScopListbyId, "");
                 }
+                result.Data = new List<object>();
+                result.Data.Add(offScopListbyId.FirstOrDefault());
+
+                
+                //_________ Commit by  SAQIB    7/20/2023 ____________
+                //if (value.listOfficeStandard != null)
+                //{
+                //    _standardController.Post(value.listOfficeStandard);
+                //}
             }
             catch (Exception ex)
             {
@@ -226,14 +233,14 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         }
 
 
-        //__________ Added by SAQIB  -------- insert -----------   7/18/2023 _________________
+        //__________ (following OfficeScop) Added by SAQIB  -------- insert -----------   7/18/2023 _________________
         private void InsertMapStandardData(clsOfficeCategoryRelation obj)
         {
             try
             {
                 if (obj.id > 0)
                 {
-                    if (obj.listOfficeStandard != null)
+                    if (obj.listOfficeCategoryRelStandard != null)
                     {
                         standardMapDAL.DeleteOfficeCategoryRelationStandardMap(obj.id, obj.dbName);
                         foreach (var item in obj.listOfficeCategoryRelStandard)
@@ -258,7 +265,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             {
                 if (obj.id > 0)
                 {
-                    if (obj.listOfficeStandard != null)
+                    if (obj.listOfficeCategoryRelStandard != null)
                     {
                         stateMapDAL.DeleteOfficeCategoryRelationMap(obj.id, obj.dbName);
                         foreach (var item in obj.listOfficeState)
@@ -283,7 +290,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             {
                 if (obj.id > 0)
                 {
-                    if (obj.listOfficeStandard != null)
+                    if (obj.listOfficeCategoryRelStandard != null)
                     {
                         cityMapDAL.DeleteOfficeCategoryRelationCityMap(obj.id, obj.dbName);
                         foreach (var item in obj.listOfficeCity)
@@ -304,7 +311,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
         }
 
 
-        //__________ Added by SAQIB  -------- fetch -----------   7/18/2023 _________________
+        //__________ (following OfficeScop) Added by SAQIB  -------- fetch -----------   7/18/2023 _________________
         private List<clsOfficeCategoryRelationStandardMap> GetMapStandard(int officeCategoryRelationId, string dbName)
         {
             try
