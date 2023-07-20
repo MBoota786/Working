@@ -344,7 +344,6 @@ end
 --END
 
 
-
 create table channel(
 	id int primary key identity,
 	name varchar(25),
@@ -393,7 +392,6 @@ create table tblPrivateMessage(
 	isRecever bit,
 	isSender bit
 )
-
 
 
 create table tblMsgFileRef(

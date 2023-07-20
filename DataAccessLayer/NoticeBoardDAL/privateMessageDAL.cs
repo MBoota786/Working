@@ -70,12 +70,7 @@ namespace DataAccessLayer.NoticeBoardDAL
                     obj.senderId = returnData["senderId"] is DBNull ? (int)0 : (int)returnData["senderId"];
                     obj.receiverId = returnData["receiverId"] is DBNull ? (int)0 : (int)returnData["receiverId"];
                     obj.message = returnData["message"] is DBNull ? (string)string.Empty : (string)returnData["message"];
-                    obj.timestamp = returnData["timestamp"] is DBNull ? (DateTime)DateTime.Now : (DateTime)returnData["timestamp"];
-
-                    //obj.isReaded = returnData["isReaded"] is DBNull ? (bool)false : (bool)returnData["isReaded"];
-                    //obj.isSender = returnData["isSender"] is DBNull ? (bool)false : (bool)returnData["isSender"];
-                    //obj.isReceiver  = returnData["isReceiver"] is DBNull ? (bool)false : (bool)returnData["isReceiver"];
-                    
+                    obj.timestamp = returnData["timestamp"] is DBNull ? (DateTime)DateTime.Now : (DateTime)returnData["timestamp"];        
                     obj.isReaded = returnData["isReaded"] is DBNull || returnData["isReaded"] == null ? false : (bool)returnData["isReaded"];
                     obj.isSender = returnData["isSender"] is DBNull || returnData["isSender"] == null ? false : (bool)returnData["isSender"];
                     obj.isReceiver = returnData["isRecever"] is DBNull || returnData["isRecever"] == null ? false : (bool)returnData["isRecever"];
