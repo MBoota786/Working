@@ -125,16 +125,6 @@
         "projectUniqueName": "D:\\Working-master\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
         "projectPath": "D:\\Working-master\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\STARIZ.PK\\.nuget\\packages\\",
-        "projectStyle": "PackagesConfig",
-        "configFilePaths": [
-          "C:\\Users\\STARIZ.PK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net472": {
             "projectReferences": {
@@ -143,8 +133,7 @@
               }
             }
           }
-        },
-        "packagesConfigPath": "D:\\Working-master\\DataAccessLayer\\packages.config"
+        }
       },
       "frameworks": {
         "net472": {}

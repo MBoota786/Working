@@ -192,9 +192,10 @@ namespace Accordia_Project.BusinessLogicLayer.Office
             {
                 if (list != null)
                 {
+
                     foreach (var value in list)
                     {
-
+                        //Checking
                         bool stateExist = false;
                         bool cityExist = false;
                         string stateMessage = "";
@@ -273,7 +274,7 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                         }
 
 
-
+                        //Insert  || update 
                         if (value.id > 0)
                         {
                             // Update Query
@@ -345,8 +346,6 @@ namespace Accordia_Project.BusinessLogicLayer.Office
 
                     result.Data = new List<object>();
                     result.Data.Add(offList.FirstOrDefault());
-
-
                 }
                 else
                 {
@@ -500,17 +499,6 @@ namespace Accordia_Project.BusinessLogicLayer.Office
                 foreach (var item in list)
                 {
                     //item.id ==> officeScopeId
-
-                    //============== Modified By Saqib ================== 10:18 , 7/17/2023
-                    //item.scopeStandard = new List<clsOfficeScopeStandardMap>();
-                    //item.scopeStandard = GetMapStandard(item.id, dbName);
-                    //item.scopeState = new List<clsOfficeScopeStateMap>();
-                    //item.scopeState = GetMapState(item.id, dbName);   
-                    //item.scopeCity = new List<clsOfficeScopeCityMap>();
-                    //item.scopeCity = GetMapCity(item.id, dbName);
-
-
-                    //============== Modified By Saqib ================== 10:18 , 7/17/2023
                     item.scopeStandard = new List<clsOfficeScopeStandardMap>();
                     item.scopeStandard = GetMapStandard(item.id, dbName);
                     item.scopeState = new List<clsOfficeScopeStateMap>();

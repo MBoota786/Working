@@ -1,4 +1,4 @@
-use EvolveMain
+﻿use EvolveMain
 
 
 CREATE proc spSelectAndCheckLogin(@LoginEmail varchar(100),@LoginPassword varchar(100))
@@ -407,4 +407,98 @@ create table tblMsgFiles(
 	fileName nvarchar(500),
 	fileType  nvarchar(25)
 )
+
+
+drop table tblPrivateMessage
+CREATE TABLE tblPrivateMessages (
+    id INT PRIMARY KEY IDENTITY,
+    senderId INT, -- Reference to userId in tblUsers
+    receiverId INT, -- Reference to userId in tblUsers
+    messageText NVARCHAR(MAX), -- Include emojis in the message text
+    appId INT,
+    applicationReviewId INT,
+    timeStamp DATETIME,
+    reminder DATETIME,
+    -- Add other private message-related columns as needed
+);
+
+
+INSERT INTO tblPrivateMessages (senderId, receiverId, messageText, appId, applicationReviewId, timeStamp, reminder)
+VALUES (1, 2, N'Hello! 😀😀', 123, 456, GETDATE(), NULL);
+
+select * from tblPrivateMessages
+
+
+--_____________________________ Tabels ____________________________________
+use EvolveMain
+create table tblPrivateMessage
+(
+	id int primary key identity,
+	senderId int,
+	receiverId int,
+	messageText nvarchar(max),
+	appId int,
+	applicationReviewId int,
+	TimeStamp datetime,
+	isReceiver bit,
+	isSender bit,
+	reminder datetime
+)
+
+
+create table tblMessageReadStatus
+(
+	id int primary key identity,
+	isChannelMessages bit,
+	messageId int, -- private,Message -- chanelmessage
+	userId int,
+	channelId int,
+)
+
+
+create table  tblMsgFiles(
+	id int primary key identity,
+	fileBytes varBinary(Max),
+	fileName varchar(25),
+	fileType varchar(25),
+	[datetime] datetime,
+)
+
+
+create table tblMsgFileRef(
+	id int primary key identity,
+	privateMessageId int,
+	channelMessageId int,
+	fileId int
+)
+
+
+create table tblChannel(
+	id int primary key identity,
+	--fileBytes VARBINARY(Max),
+	name varchar(25),
+	status bit,
+	createdBy int,
+	createdOn datetime,
+	modifiedBy int,
+	modifiedOn datetime
+)
+
+
+create table tblChannelsUsers
+(
+	id int primary key identity,
+	channelId int,
+	userId int,
+	status bit,
+	addedBy int,
+	removedBy int,
+	addedOn datetime,
+	removedOn datetime
+)
+
+
+
+
+
 
