@@ -9,12 +9,17 @@ namespace EntityLayer.clsNoticeBoard
     public class clsPrivateMessage
     {
         public int id { get; set; }
+
         public int senderId { get; set; }
         public int receiverId { get; set; }
-        public string message { get; set; }
-        public DateTime timestamp { get; set; }
-        public bool isReaded { get; set; }
-        public bool isSender { get; set; }
+        public string messageText { get; set; }
+        public int appId { get; set; }
+        public int applicationReviewId { get; set; }
         public bool isReceiver { get; set; }
+        public bool isSender { get; set; }
+        public int isDelete { get; set; }
+        public DateTime? reminder { get; set; }
+        public DateTime timeStamp { get; set; }
+         
     }
 }

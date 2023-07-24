@@ -97,7 +97,6 @@
     <Compile Include="BuyerDAL\buyerContactPersonDAL.cs" />
     <Compile Include="Dashboard\dashboardDAL.cs" />
     <Compile Include="NoticeBoardDAL\privateMessageDAL.cs" />
-    <Compile Include="NoticeBoardDAL\UserRolesDAL.cs" />
     <Compile Include="officeCategoryRelationCityMapDAL.cs" />
     <Compile Include="officeCategoryRelationDAL.cs" />
     <Compile Include="officeCategoryRelationStandardMapDAL.cs" />

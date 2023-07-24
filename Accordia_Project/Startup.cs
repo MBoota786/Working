@@ -1,6 +1,5 @@
 using Accordia_Project.BusinessLogicLayer.General.Company;
 using Accordia_Project.BusinessLogicLayer.Hubs;
-using Accordia_Project.Hubs;
 using DataAccessLayer;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
